@@ -1,5 +1,5 @@
 ---
-  name: Solar System Workflow #testing
+  name: Solar System Workflow #testing 2
   on:
     workflow_dispatch: null
     push:
